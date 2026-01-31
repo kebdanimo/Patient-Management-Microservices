@@ -4,10 +4,10 @@ Content-Type: application/json
 
 {
   "name": "mike mentzer",
-  "email": "test@gmail.com",
+  "email": "test333@gmail.com",
   "address": "new jersey",
   "dateOfBirth": "2001-07-06",
-  "registeredDate": "2025-11-01"
+  "registeredDate": "2025-11-05"
 }
 
 ###
